@@ -1,0 +1,11 @@
+{
+  "employees":[
+    {"id": 1, "firstName":"John", "lastName":"Doe", "sex": "M"},
+    {"id": 2, "firstName":"Anna", "lastName":"Smith", "sex": "F"},
+    {"id": 3, "firstName":"Peter", "lastName":"Jones", "sex": "M"},
+    {"id": 4, "firstName":"Petra", "lastName":"Dobra", "sex": "F"},
+    {"id": 5, "firstName":"Ondrej", "lastName":"Novy", "sex": "M"},
+    {"id": 6, "firstName":"Tomas", "lastName":"Stary", "sex": "M"},
+    {"id": 7, "firstName":"Bozena", "lastName":"Nemcova", "sex": "F"}
+  ]
+}
